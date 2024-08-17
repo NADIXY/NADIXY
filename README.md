@@ -4,7 +4,7 @@
 ![fuernadja](https://github.com/user-attachments/assets/0f5fe64a-d57f-4c5a-8861-a45a56c63b81)
 
 ## :eyes: About Me
-I'm Nadia, a passionate app developer with a focus on Health and Lifestyle Apps. Currently, my primary focus is on mastering Kotlin and Swift, with plans to deepen my knowledge in both front-end and back-end development for mobile applications.
+I'm Nadia, from the medical industry and a passionate app developer with a focus on Health, Finance and Lifestyle Apps. Currently, my primary focus is on mastering Kotlin and Swift, with plans to deepen my knowledge in both front-end and back-end development for mobile applications.
 ---
 ## :seedling: What I'm Learning
 - **Mobile Application Development** with a focus on Health and Lifestyle apps using **Kotlin** & **Swift**
@@ -25,7 +25,7 @@ I'm Nadia, a passionate app developer with a focus on Health and Lifestyle Apps.
 ## :revolving_hearts: Looking to Collaborate
 
 I'm eager to collaborate on:
-- **Mobile Apps** that can make a difference, particularly in Health and Lifestyle
+- **Mobile Apps** that can make a difference, particularly in Health, Finance and Lifestyle
 - **AI-driven solutions** to solve everyday problems
 
 ---
