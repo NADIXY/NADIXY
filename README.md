@@ -57,11 +57,12 @@ I'm Nadia, from the medical industry and a passionate app developer with a focus
 I'm eager to collaborate on:
 - **Mobile Apps** that can make a difference, particularly in Health, Finance and Lifestyle
 - **AI-driven solutions** to solve everyday problems
-
+<!---
 ---
 ## :mailbox: How to Reach Me
 
 Feel free to connect with me via email: :email: [nadiagbaptista015@gmail.com](mailto:nadiagbaptista015@gmail.com)
+--->
 
 ---
 ## :zap: Fun Fact
