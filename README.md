@@ -4,12 +4,12 @@
 ![fuernadja](https://github.com/user-attachments/assets/0f5fe64a-d57f-4c5a-8861-a45a56c63b81)
 
 ## :eyes: About Me
-I'm Nadia, Junior Android Developer from the medical industry and a passionate Software developer.
+I'm Nadia, Mobile App Developer (iOS & Andrroid) from the medical industry and a passionate Software developer.
 ---
 ## :seedling: What I'm Learning
-- **Mobile Application Development** with a focus on Health and Lifestyle apps using **Kotlin** & **Swift**
+- **Mobile Application Development** with a focus on Health, Finance and Lifestyle apps using **Kotlin** & **Swift**
 - Leveraging tools like **Android Studio** and **XCode**
-- **Future Goals**: Gaining expertise in both front-end and back-end development for comprehensive app solutions
+<!-- - **Future Goals**: Gaining expertise in both front-end and back-end development for comprehensive app solutions-->
 
 ---
 ## 🛠 Tech Stack
