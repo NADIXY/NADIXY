@@ -4,7 +4,7 @@
 ![fuernadja](https://github.com/user-attachments/assets/0f5fe64a-d57f-4c5a-8861-a45a56c63b81)
 
 ## :eyes: About Me
-I'm Nadia, Mobile App Developer (iOS & Andrroid) from the medical industry and a passionate Software developer.
+I'm Nadia, Mobile App Developer (iOS & Android) from the medical industry and a passionate Software developer.
 ---
 ## :seedling: What I'm Learning
 - **Mobile Application Development** with a focus on Health, Finance and Lifestyle apps using **Kotlin** & **Swift**
