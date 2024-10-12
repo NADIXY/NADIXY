@@ -5,10 +5,10 @@
 
 ## :eyes: About Me
 I'm Nadia, Mobile App Developer (iOS & Android) from the medical industry and a passionate Software developer.
----
+<!-- ---
 ## :seedling: What I'm Learning
 - **Mobile Application Development** with a focus on Health, Finance and Lifestyle apps using **Kotlin** & **Swift**
-- Leveraging tools like **Android Studio** and **XCode**
+- Leveraging tools like **Android Studio** and **XCode** -->
 <!-- - **Future Goals**: Gaining expertise in both front-end and back-end development for comprehensive app solutions-->
 
 ---
