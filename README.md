@@ -5,13 +5,9 @@
 
 ## :eyes: About Me
 I'm Nadia, Mobile App Developer (Android & iOS) from the medical industry and a passionate Software developer.
-<!-- ---
-## :seedling: What I'm Learning
-- **Mobile Application Development** with a focus on Health, Finance and Lifestyle apps using **Kotlin** & **Swift**
-- Leveraging tools like **Android Studio** and **XCode** -->
-<!-- - **Future Goals**: Gaining expertise in both front-end and back-end development for comprehensive app solutions-->
 
 ---
+
 ## 🛠 Tech Stack
 
 ### 💻 **Programming Languages**
@@ -57,19 +53,15 @@ I'm Nadia, Mobile App Developer (Android & iOS) from the medical industry and a 
 I'm eager to collaborate on:
 - **Mobile Apps** that can make a difference, particularly in Health, Finance and Lifestyle
 - **AI-driven solutions** to solve everyday problems
-<!---
----
-## :mailbox: How to Reach Me
-
-Feel free to connect with me via email: :email: [nadiagbaptista015@gmail.com](mailto:nadiagbaptista015@gmail.com)
---->
 
 ---
+
 ## :zap: Fun Fact
 
 I aspire to master multiple programming languages to deepen my understanding of AI and create seamless and intuitive technology interactions!
 
 ---
+
 <p align="center">
   :rocket: "The only way to do great work is to love what you do." - Steve Jobs
 </p>
@@ -101,8 +93,3 @@ I aspire to master multiple programming languages to deepen my understanding of 
   <img src="https://profile-counter.glitch.me/NADIXY/count.svg"/>
   </p>
 
-
-<!---
-NADIXY/NADIXY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
