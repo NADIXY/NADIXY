@@ -1,7 +1,9 @@
 
-<h1 align="center">👋 MEDICINE MEETS CODE</h1>
+<h1 align="center">👋 Hello</h1>
 
+<!--
 ![fuernadja](https://github.com/user-attachments/assets/0f5fe64a-d57f-4c5a-8861-a45a56c63b81)
+-->
 
 ## :eyes: About Me
 I'm Nadia, Mobile App Developer (Android & iOS) from the medical industry and a passionate Software developer.
