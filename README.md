@@ -49,6 +49,7 @@ I'm Nadia, Mobile App Developer (Android & iOS) from the medical industry and a 
 </p>
 
 ---
+<!--
 
 ## :revolving_hearts: Looking to Collaborate
 
@@ -68,8 +69,7 @@ I aspire to master multiple programming languages to deepen my understanding of 
   :rocket: "The only way to do great work is to love what you do." - Steve Jobs
 </p>
 
-
-
+-->
 
 <p>
 <p align="center">
