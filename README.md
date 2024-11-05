@@ -8,7 +8,9 @@
 ## :eyes: About Me
 I'm Nadia, Mobile App Developer (Android & iOS) from the medical industry and a passionate Software developer.
 
+
 ---
+
 
 ## 🛠 Tech Stack
 
@@ -48,6 +50,7 @@ I'm Nadia, Mobile App Developer (Android & iOS) from the medical industry and a 
    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Badge"/>
 </p>
 
+
 ---
 <!--
 
@@ -70,7 +73,6 @@ I aspire to master multiple programming languages to deepen my understanding of 
 </p>
 
 -->
-
 <p>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
