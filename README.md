@@ -6,7 +6,7 @@
 -->
 
 ## :eyes: About Me
-I am a fullstack mobile app developer (Android & iOS) with a professional medical background and a passionate software developer.
+I am a Fullstack Mobile App Developer (Android & iOS) with a professional medical background and a passionate software developer.
 
 ---
 
