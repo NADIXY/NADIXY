@@ -6,8 +6,7 @@
 -->
 
 ## :eyes: About Me
-I'm Nadia, Mobile App Developer (Android & iOS) from the medical industry and a passionate Software developer.
-
+I am a fullstack mobile app developer (Android & iOS) with a professional medical background and a passionate software developer.
 
 ---
 
