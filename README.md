@@ -1,14 +1,31 @@
 
-<h1 align="center">👋 Hello 🇵🇹</h1>
+<h1 align="center">👋 Hello 🇵🇹 </h1>
 
 <!--
 ![fuernadja](https://github.com/user-attachments/assets/0f5fe64a-d57f-4c5a-8861-a45a56c63b81)
 -->
 
 ## :eyes: About Me
-I am from Portugal 🇵🇹 a Fullstack Mobile App Developer (Android & iOS) with a professional Beauty medical background and a passionate software developer.
+<h1 align="center">I am from Portugal 🇵🇹 a Fullstack Mobile App Developer (Android & iOS) with a professional Beauty medical background and a passionate software developer.
+</h1>
 
 ---
+
+<h1 align="center">How to contact me on Telegram: </h1>
+
+<h1 align="center">
+
+<img width="289" height="358" alt="Bildschirmfoto 2026-04-04 um 18 59 09" src="https://github.com/user-attachments/assets/5b177b30-dc13-4dc5-a96b-54b0df20709c" />
+
+</h1>
+
+<h1 align="center">
+
+Or send me an email:
+
+nk-aesthetic-mobil-spa@hotmail.com
+
+</h1>
 
 
 ## 🛠 Tech Stack
