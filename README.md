@@ -6,7 +6,7 @@
 -->
 
 ## :eyes: About Me
-I am from Portugal 🇵🇹 a Fullstack Mobile App Developer (Android & iOS) with a professional medical background and a passionate software developer.
+I am from Portugal 🇵🇹 a Fullstack Mobile App Developer (Android & iOS) with a professional Beauty medical background and a passionate software developer.
 
 ---
 
