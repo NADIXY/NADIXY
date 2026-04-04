@@ -13,7 +13,7 @@
 
 <h1 align="center">How to contact me on Telegram: </h1>
 
-<img width="289" height="358" alt="Bildschirmfoto 2026-04-04 um 18 59 09" src="https://github.com/user-attachments/assets/5b177b30-dc13-4dc5-a96b-54b0df20709c" />
+<h1 align="center"><img width="289" height="358" alt="Bildschirmfoto 2026-04-04 um 18 59 09" src="https://github.com/user-attachments/assets/5b177b30-dc13-4dc5-a96b-54b0df20709c" /></h1>
 
 <h1 align="center">
 
