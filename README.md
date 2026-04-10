@@ -1,32 +1,13 @@
-
 <h1 align="center">👋 Hello 🇵🇹 </h1>
 
-<!--
-![fuernadja](https://github.com/user-attachments/assets/0f5fe64a-d57f-4c5a-8861-a45a56c63b81)
--->
-
 ## :eyes: About Me
-<h1 align="center">I am from Portugal 🇵🇹 a Fullstack Mobile App Developer (Android & iOS) with a professional Beauty medical background and a passionate software developer.
-</h1>
-
----
-
-<h1 align="center">How to contact me on Telegram: </h1>
-
-<h1 align="center"><img width="289" height="358" alt="Bildschirmfoto 2026-04-04 um 18 59 09" src="https://github.com/user-attachments/assets/5b177b30-dc13-4dc5-a96b-54b0df20709c" /></h1>
-
-<h1 align="center">
-
-Or send me an email:
-
-nk-aesthetic-mobil-spa@hotmail.com
-
-</h1>
-
+## <p align="center">I am from Portugal 🇵🇹 a Fullstack Mobile App Developer (Android & iOS) with a professional Beauty medical background and a passionate software developer.
+</p>
+ 
 
 ## 🛠 Tech Stack
 
-### 💻 **Programming Languages**
+ 💻 **Programming Languages**
 <p align="center">
    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge"/>
@@ -64,7 +45,6 @@ nk-aesthetic-mobil-spa@hotmail.com
 
 
 ---
-<!--
 
 ## :revolving_hearts: Looking to Collaborate
 
@@ -81,10 +61,21 @@ I aspire to master multiple programming languages to deepen my understanding of 
 ---
 
 <p align="center">
-  :rocket: "The only way to do great work is to love what you do." - Steve Jobs
+ :rocket: "The only way to do great work is to love what you do." - Steve Jobs
 </p>
 
--->
+---
+
+<h1 align="center">How to contact me on Telegram: </h1>
+
+<h1 align="center"><img width="289" height="358" alt="Bildschirmfoto 2026-04-04 um 18 59 09" src="https://github.com/user-attachments/assets/5b177b30-dc13-4dc5-a96b-54b0df20709c" />
+
+Or send me an email:
+
+nk-aesthetic-mobil-spa@hotmail.com
+
+</h1>
+
 <p>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
