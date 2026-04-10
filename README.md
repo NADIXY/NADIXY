@@ -7,7 +7,7 @@
 
 ## 🛠 Tech Stack
 
- 💻 **Programming Languages**
+### 💻 **Programming Languages**
 <p align="center">
    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge"/>
