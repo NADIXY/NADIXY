@@ -4,7 +4,7 @@
 ## <p align="center">I am from Portugal 🇵🇹 a Fullstack Mobile App Developer (Android & iOS) with a professional Beauty medical background and a passionate software developer.
 </p>
 
-<div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="nadia-baptista-405807332" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/nadia-baptista-405807332?trk=profile-badge">Nadia Baptista</a></div>
+<h1 align="center"><img width="289" height="358" alt="badge-base LI-profile-badge" data-locale="de_DE" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="nadia-baptista-405807332" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/nadia-baptista-405807332?trk=profile-badge">Nadia Baptista</a></h1>
               
  
 
