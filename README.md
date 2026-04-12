@@ -1,10 +1,9 @@
 <h1 align="center">👋 Hello 🇵🇹 </h1>
 
 ## :eyes: About Me
-## <p align="center">I am from Portugal 🇵🇹 a Fullstack Mobile App Developer (Android & iOS) with a professional Beauty medical background and a passionate software developer.
+## <p align="center">I am from Portugal 🇵🇹 a Fullstack Mobile App Developer (Android & iOS) with a professional Beauty medical background and a passionate software developer. 
 </p>
  
-
 ## 🛠 Tech Stack
 
 ### 💻 **Programming Languages**
@@ -66,10 +65,20 @@ I aspire to master multiple programming languages to deepen my understanding of 
 
 ---
 
-<h1 align="center">How to contact me: </h1>
+<h1 align="center">🔗 Connect with me</h1>
 
-<h1 align="center"><div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="nadia-baptista-405807332" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/nadia-baptista-405807332?trk=profile-badge">Nadia Baptista</a></div></h1>
-              
+<h1 align="center">
+
+[LinkedIn Profil](https://de.linkedin.com/in/nadia-baptista-405807332)
+
+</h1>
+
+<h1 align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadia%20Baptista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/nadia-baptista-405807332)
+
+</h1>
+
 
 <h1 align="center"><img width="289" height="358" alt="Bildschirmfoto 2026-04-04 um 18 59 09" src="https://github.com/user-attachments/assets/5b177b30-dc13-4dc5-a96b-54b0df20709c" />
 
@@ -83,8 +92,6 @@ nk-aesthetic-mobil-spa@hotmail.com
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
-
-
 
 
 
