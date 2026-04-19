@@ -77,10 +77,6 @@ I aspire to master multiple programming languages to deepen my understanding of 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadia%20Baptista-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/nadia-baptista-405807332)
 
-</h1>
-
-
-<h1 align="center"><img width="289" height="358" alt="Bildschirmfoto 2026-04-04 um 18 59 09" src="https://github.com/user-attachments/assets/5b177b30-dc13-4dc5-a96b-54b0df20709c" />
 
 Or send me an email:
 
